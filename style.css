@@ -9,6 +9,7 @@
 body {
     height: 100vh;
     padding: 1rem;
+    font-family: sans-serif;
 }
 
 .welcome {
@@ -202,7 +203,11 @@ footer .footer-nav .socials {
     gap: 1.4rem;
 }
 
-
+@media (max-width: 504px) {
+    .brand h1 {
+        font-size: 2rem;
+    }
+}
 
 @media (min-width: 1024px) {
     .brand-flex {
