@@ -209,30 +209,6 @@ footer .footer-nav .socials {
         font-size: 2rem;
         width: 100%;
     }
-    
-    .brand-flex .image-one{
-        height: 25rem;
-    }
-    
-    .brand-flex .image {
-        height: 25rem;
-    }
-    
-    .brand-flex .image-three {
-        height: 25rem;
-    }
-    
-    .brand-flex .image-four {
-        height: 25rem;
-    }
-    
-    .brand-flex .image-five {
-        height: 25rem;
-    }
-    
-    .brand-flex .image-six {
-        height: 25rem;
-    }
 }
 
 @media (min-width: 1024px) {
