@@ -210,7 +210,27 @@ footer .footer-nav .socials {
         width: 100%;
     }
     
-    .brand-flex {
+    .brand-flex .image-one{
+        height: 20rem;
+    }
+    
+    .brand-flex .image {
+        height: 20rem;
+    }
+    
+    .brand-flex .image-three {
+        height: 20rem;
+    }
+    
+    .brand-flex .image-four {
+        height: 20rem;
+    }
+    
+    .brand-flex .image-five {
+        height: 20rem;
+    }
+    
+    .brand-flex .image-six {
         height: 20rem;
     }
 }
